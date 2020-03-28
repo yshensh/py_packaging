@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: some-wheel
+Version: 1.0
+Summary: Demo packaging and distribution
+Home-page: https://some_url
+Author: someone
+Author-email: someone@email.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

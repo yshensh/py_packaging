@@ -1,0 +1,8 @@
+README
+setup.py
+src/some_wheel.egg-info/PKG-INFO
+src/some_wheel.egg-info/SOURCES.txt
+src/some_wheel.egg-info/dependency_links.txt
+src/some_wheel.egg-info/top_level.txt
+src/some_wheel_package/__init__.py
+src/some_wheel_package/some_wheel_module.py
